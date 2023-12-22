@@ -2106,8 +2106,7 @@ public class ServletA extends HttpServlet {
 
 ## JDBC
 
-### JDBC技术概述
+我懒了，，，
 
-> 什么是JDBC
+直接放尚硅谷在线笔记链接https://www.wolai.com/4SyaBmWpcQhVKae3oKjuNC
 
-java连接数据库技术
